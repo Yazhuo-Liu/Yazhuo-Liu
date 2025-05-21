@@ -1,7 +1,7 @@
 ## Hi there, I'm Yazhuo Liu 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yazhuo-Liu" alt="Yazhuo-Liu" /> </p>
 
-I am a **PhD student at Georgia Tech** with experience in **multiscale, multiphysics modeling of metallic and ceramic materials**. My primary methods include **Finite Element Method, Phase Field Method, Fast Fourier Transform, and Bayesian Optimization**.
+I am a **PhD candidate at Georgia Tech** with experience in **multiscale, multiphysics modeling of metallic and ceramic materials**. My primary methods include **Finite Element Method, Phase Field Method, Fast Fourier Transform, and Bayesian Optimization**.
 
 ---
 
